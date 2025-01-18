@@ -106,6 +106,13 @@ nav_rank: 2
             </tr>
         </thead>
         <tbody>
+                    <tr>
+                <td>Sean Jaffe</td>
+                <td>PhD</td>
+                <td>2024</td>
+                <td>-</td>
+            </tr>
+
             <tr>
                 <td>Marianne Arriola</td>
                 <td>Undergraduate</td>

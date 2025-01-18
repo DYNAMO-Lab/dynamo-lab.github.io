@@ -26,6 +26,6 @@ profile:
     email: egedemirci@ucsb.edu
     github: 
     orcid: 
-    website: egedemirci.net
+    website: http://www.egedemirci.net
 ---
 .
