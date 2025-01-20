@@ -15,7 +15,7 @@ publications: 'author^=*(Ege) Demirci'
 teaser: >
         <p><strong>Research interests:</strong> machine learning on graphs, network science, causal inference, applied machine learning</p>
 
-          <p><a href="egedemirci.net">Ege</a> is a Computer Science Ph.D. student at UC Santa Barbara. He earned his bachelor's degree in Computer Science and Engineering from Sabanci University. His research focuses on various applications of graph machine learning on interdisciplinary domains. Previously, he worked on causal inference, social networks, and computational social sciences. He is also interested in graph-based techniques that integrate with large language models.  </p>
+          <p><a href="egedemirci.net">Ege</a> is a Computer Science Ph.D. student at UC Santa Barbara. He earned his bachelor's degree in Computer Science and Engineering from Sabanci University. His research focuses on various applications of graph machine learning on interdisciplinary domains. Previously, he worked on causal inference, social networks, and computational social sciences. He is also interested in graph-based techniques that integrate with large language models. </p>
 
 profile:
     name: Ege Demirci
