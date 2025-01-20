@@ -2,7 +2,7 @@
 layout: about
 inline: true
 
-group: MSc Students
+group: MS Students
 group_rank: 3
 team_collaborator: true
 
