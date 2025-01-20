@@ -20,7 +20,7 @@ teaser: >
 
 profile:
     name: Esha Gupta
-    position: MSc Student in Computer Science
+    position: MS Student in Computer Science
     align: right
     image: esha.jpeg
     role: Master Student

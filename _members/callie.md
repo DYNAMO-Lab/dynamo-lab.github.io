@@ -20,9 +20,9 @@ teaser: >
 
 profile:
     name: Callie Sardina
-    position: MSc Student in Computer Science
+    position: MS Student in Computer Science
     align: right
-    image: 
+    image: callie.jpg
     role: Master Student
     email: calliesardina@ucsb.edu
     github: 
