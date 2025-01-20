@@ -22,7 +22,7 @@ profile:
     name: Danish Ebadulla
     position: PhD Student in Computer Science
     align: right
-    image: danish.jpg
+    image: 
     role: Doctoral Researcher
     email: danish_ebadulla@ucsb.edu
     github: 
