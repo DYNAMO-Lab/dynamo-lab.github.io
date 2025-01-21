@@ -13,7 +13,7 @@ lastname: Li
 publications: 'author^=*(Eric) Li'
 
 teaser: >
-        <p><strong>Research interests:</strong> network science, machine learning, computer vision </p>
+        <p><strong>Research interests:</strong>  graph mining, AI4Science, machine learning </p>
 
 
 profile:
