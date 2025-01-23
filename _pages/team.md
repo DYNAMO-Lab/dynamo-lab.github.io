@@ -93,6 +93,46 @@ nav_rank: 2
 
 ---
 
+## Undergraduate Students
+
+<div class="table-responsive my-5">
+    <table class="table table-striped table-hover table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th>Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Will Corcoran</td>
+            </tr>
+            <tr>
+                <td>Sterling Hsu</td>
+            </tr>
+            <tr>
+                <td>Ben Monastyrsky</td>
+            </tr>
+            <tr>
+                <td>Eirini Schoinas</td>
+            </tr>
+            <tr>
+                <td>Sohom Dutta</td>
+            </tr>
+            <tr>
+                <td>Susan Clay</td>
+            </tr>
+            <tr>
+                <td>Emily Hu</td>
+            </tr>
+            <tr>
+                <td>Jonah So</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+---
+
 ## Alumni
 
 <div class="table-responsive my-5">
