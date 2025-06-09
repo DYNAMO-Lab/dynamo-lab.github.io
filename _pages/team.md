@@ -146,11 +146,26 @@ nav_rank: 2
             </tr>
         </thead>
         <tbody>
+             <tr>
+                <td>Kha-Dinh Luong</td>
+                <td>PhD</td>
+                <td>2025</td>
+                <td>Amazon</td>
+            </tr>
+
+                         <tr>
+                <td>Esha Gupta</td>
+                <td>MS</td>
+                <td>2025</td>
+                <td>Amazon</td>
+            </tr>
+
+
                     <tr>
                 <td>Sean Jaffe</td>
                 <td>PhD</td>
                 <td>2024</td>
-                <td>-</td>
+                <td>Celonis</td>
             </tr>
 
             <tr>

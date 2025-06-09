@@ -2,8 +2,8 @@
 layout: about
 inline: true
 
-group: MS Students
-group_rank: 3
+group: PhD Students
+group_rank: 2
 team_collaborator: true
 
 
@@ -20,10 +20,10 @@ teaser: >
 
 profile:
     name: Callie Sardina
-    position: MS Student in Computer Science
+    position: PhD Student in Computer Science
     align: right
     image: callie.jpg
-    role: Master Student
+    role: Doctoral Researcher
     email: calliesardina@ucsb.edu
     github: 
     orcid: 
