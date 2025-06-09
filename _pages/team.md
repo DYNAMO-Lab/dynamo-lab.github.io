@@ -24,7 +24,7 @@ nav_rank: 2
 
 <!-- Team Image at the Start -->
 <div class="text-center my-4">
-    <img src="{{ '/assets/img/team/img_1009.jpg' | relative_url }}" alt="Team Image" class="team-image img-fluid">
+    <img src="{{ '/assets/img/team/IMG-2570.jpg' | relative_url }}" alt="Team Image" class="team-image img-fluid">
 </div>
 
 {% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %}
