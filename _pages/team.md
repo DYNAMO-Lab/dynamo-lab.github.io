@@ -150,14 +150,14 @@ nav_rank: 2
                 <td>Kha-Dinh Luong</td>
                 <td>PhD</td>
                 <td>2025</td>
-                <td>Amazon</td>
+                <td><a href="https://www.amazon.com" target="_blank">Amazon.com</a></td>
             </tr>
 
                          <tr>
                 <td>Esha Gupta</td>
                 <td>MS</td>
                 <td>2025</td>
-                <td>Amazon</td>
+                <td><a href="https://www.amazon.com" target="_blank">Amazon.com</a></td>
             </tr>
 
 
