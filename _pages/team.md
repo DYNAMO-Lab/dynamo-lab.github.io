@@ -2,7 +2,7 @@
 layout: page
 permalink: /team.html
 title: team
-page-title: Team
+page-title: Team 
 description:
 nav: true
 nav_order: 2
