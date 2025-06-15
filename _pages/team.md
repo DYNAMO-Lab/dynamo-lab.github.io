@@ -127,6 +127,9 @@ nav_rank: 2
             <tr>
                 <td>Jonah So</td>
             </tr>
+              <tr>
+                <td>Julia Novick</td>
+            </tr>
         </tbody>
     </table>
 </div>
