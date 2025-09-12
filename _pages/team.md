@@ -172,12 +172,6 @@ nav_rank: 2
             </tr>
 
             <tr>
-                <td>Marianne Arriola</td>
-                <td>Undergraduate</td>
-                <td>2023</td>
-                <td><a href="https://tech.cornell.edu" target="_blank">Cornell Tech</a></td>
-            </tr>
-            <tr>
                 <td>Nikunj Baid</td>
                 <td>MS</td>
                 <td>2023</td>
