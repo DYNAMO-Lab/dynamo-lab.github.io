@@ -121,12 +121,6 @@ nav_rank: 2
             <tr>
                 <td>Susan Clay</td>
             </tr>
-            <tr>
-                <td>Emily Hu</td>
-            </tr>
-            <tr>
-                <td>Jonah So</td>
-            </tr>
               <tr>
                 <td>Julia Novick</td>
             </tr>
