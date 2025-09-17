@@ -143,6 +143,23 @@ nav_rank: 2
             </tr>
         </thead>
         <tbody>
+                     <tr>
+                <td>Joseph Foster</td>
+                <td>MS</td>
+                <td>2025</td>
+                <td>-</td>
+            </tr>
+
+                     <tr>
+                <td>Jeffrey Chen</td>
+                <td>MS</td>
+                <td>2025</td>
+                <td>-</td>
+            </tr>
+
+
+
+
              <tr>
                 <td>Kha-Dinh Luong</td>
                 <td>PhD</td>
@@ -157,6 +174,12 @@ nav_rank: 2
                 <td><a href="https://www.amazon.com" target="_blank">Amazon.com</a></td>
             </tr>
 
+                     <tr>
+                <td>Qiming Wu</td>
+                <td>MS</td>
+                <td>2024</td>
+                <td><a href="https://www.nvidia.com" target="_blank">NVIDIA</a></td>
+            </tr>
 
                     <tr>
                 <td>Sean Jaffe</td>
@@ -236,6 +259,19 @@ nav_rank: 2
                 <td>Postdoc</td>
                 <td>2020</td>
                 <td><a href="https://www.tongji.edu.cn/en/" target="_blank">Tongji University</a></td>
+            </tr>
+                                    <tr>
+                <td>Sourav Medya</td>
+                <td>PhD</td>
+                <td>2019</td>
+                <td><a href="https://www.uic.edu" target="_blank">University of Illinois - Chicago</a></td>
+            </tr>
+
+                        <tr>
+                <td>Arlei Silva</td>
+                <td>PhD</td>
+                <td>2019</td>
+                <td><a href="https://www.rice.edu" target="_blank">Rice University</a></td>
             </tr>
             <tr>
                 <td>Sai Nikhil Maram</td>
