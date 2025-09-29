@@ -10,6 +10,12 @@ nav_order: 5
 
 ---
 
+### <span id="reading-brain" style="color:#003065;"><b>Reading every brain: applying data-efficient natural image reconstruction approaches to advance cognitive neuroscience</b></span>
+
+Reconstructing naturalistic visual images from fMRI data presents a challenging task, particularly when dealing with limited data and compute availability. Existing approaches require dozens of hours of 7T fMRI data per participant and extensive compute capability, each of which render these methods inaccessible to traditional cognitive neuroscience labs. This work develops and benchmarks a series of novel approaches to fMRI-based visual image reconstruction using a subject-agnostic common representation space, with the goal of establishing these methods as a tractable tool for 3T cognitive neuroscience studies acquiring data from robust samples of human participants performing cognitive tasks. In preliminary work, we have established that subjects' brain signals naturally align in this common space during training. In the proposed work, we will leverage this shared representational space to demonstrate that aligning subject-specific adapters to a reference subject is significantly more efficient than traditional end-to-end training methods. We will additionally incorporate aspects of modern cognitive and visual neuroscience (e.g., retinotopic mapping/population receptive field modeling; principled voxel selection) to further optimize the image reconstruction approach, and test these optimizations on new 3T validation data. Finally, we will put this approach to the test by acquiring fMRI data while participants perform cognitive tasks (visual attention and visual working memory) to establish the utility of natural image reconstruction for discriminating between cognitive hypotheses. Upon completion, this work will make fMRI data collection for natural image reconstruction more efficient and practical, reducing the burden on subjects and improving the generalization of fMRI reconstruction models for basic science, diagnostic, and therapeutic endeavors.
+
+---
+
 ### <span id="ai-institute" style="color:#003065;"><b>AI Institute for Agent-based Cyber Threat Intelligence and Operation</b></span>
 
 
@@ -37,13 +43,3 @@ Predicting network structure and flows on edges is a precondition to effective p
 
 Funded by: Defense Threat Reduction Agency, Award# HDTRA1-19-1-0017
 
----
-
-### <span id="cog-model" style="color:#003065;"><b>Central Coast Data Science Partnership: Training a New Generation of Data Scientists</b></span>
-
-
-Due to the societal and technological advances made possible by data-driven science, there is a strong demand for professionals versed in the tools and techniques needed for manipulating and understanding data. This project will develop an undergraduate curriculum in data science that spans and connects the three main public higher education systems in California: the research-driven University of California system, the practical and career-oriented California State University system, and the two-year California Community Colleges. The collaborative program will establish pathways for data science training through coursework and real-world projects. This project will impact students from diverse social, ethnic, cultural, and economic backgrounds and will improve the feeder pipelines from two-year colleges to four-year universities. This multi-campus approach to building a data science training program will foster collaborations for training a diverse workforce in data science. The resulting course materials and project outcomes will be made available so that other institutions can adopt best practices.
-
-The partnership consists of four academic institutions on the West Coast: University of California, Santa Barbara (UCSB), California Polytechnic State University, San Luis Obispo (Cal Poly), Santa Barbara City College (SBCC), and California State University, San Bernardino (CSUSB). The alliance will expand training at UCSB and Cal Poly by building on existing strengths through a sequence of new capstone courses, as well as lay the groundwork for data science curriculum development at SBCC and CSUSB, whose students will participate in a summer internship program at UCSB. Over 100 undergraduate students will be supported by stipends during the course of the project. The developed courses will emphasize programming and data inference within the context of application domains that is critical to training in data science. Students will be taught the underlying principles of data science, including data-generating processes and the role of measurement, ethics and privacy, information-processing tools for harnessing the power of big data, and the oral and written communication skills necessary for pursuing effective professional careers in the field. The program will culminate in a year-long capstone course for seniors, who will synthesize and apply previously learned data science tools and techniques in a large-scale project in a chosen domain area.
-
-Funded by: National Science Foundation, HDR DSC, Award# 1924205.
