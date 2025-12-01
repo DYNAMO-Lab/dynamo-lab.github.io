@@ -122,7 +122,7 @@ nav_rank: 2
                 <td>Susan Clay</td>
             </tr>
               <tr>
-                <td>Julia Novick</td>
+                <td>Victor Nardi</td>
             </tr>
         </tbody>
     </table>
