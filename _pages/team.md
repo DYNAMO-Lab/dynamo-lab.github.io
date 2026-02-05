@@ -93,7 +93,7 @@ nav_rank: 2
 
 ---
 
-## Undergraduate Students
+## Master Students
 
 <div class="table-responsive my-5">
     <table class="table table-striped table-hover table-bordered">
@@ -107,8 +107,28 @@ nav_rank: 2
                 <td>Will Corcoran</td>
             </tr>
             <tr>
-                <td>Sterling Hsu</td>
+                <td>Sathvika Anand</td>
             </tr>
+            <tr>
+                <td>Wanjing Huang</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+---
+
+## Undergraduate Students
+
+<div class="table-responsive my-5">
+    <table class="table table-striped table-hover table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th>Name</th>
+            </tr>
+        </thead>
+        <tbody>
             <tr>
                 <td>Ben Monastyrsky</td>
             </tr>
@@ -119,10 +139,13 @@ nav_rank: 2
                 <td>Sohom Dutta</td>
             </tr>
             <tr>
-                <td>Susan Clay</td>
+                <td>Riona Pampati</td>
             </tr>
               <tr>
                 <td>Victor Nardi</td>
+            </tr>
+                          <tr>
+                <td>Quinn Koster</td>
             </tr>
         </tbody>
     </table>
