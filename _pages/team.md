@@ -112,6 +112,9 @@ nav_rank: 2
             <tr>
                 <td>Wanjing Huang</td>
             </tr>
+                        <tr>
+                <td>Ivy Wang</td>
+            </tr>
         </tbody>
     </table>
 </div>
@@ -152,6 +155,35 @@ nav_rank: 2
 </div>
 
 ---
+
+
+## ERSP Students
+
+<div class="table-responsive my-5">
+    <table class="table table-striped table-hover table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th>Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Gabor Szita</td>
+            </tr>
+            <tr>
+                <td>Natasha Joshi</td>
+            </tr>
+            <tr>
+                <td>Varsha Narasiman</td>
+            </tr>
+                        <tr>
+                <td>Shreya Chati</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+--
 
 ## Alumni
 
