@@ -181,7 +181,7 @@ nav_rank: 2
                 <td>Jeffrey Chen</td>
                 <td>MS</td>
                 <td>2025</td>
-                <td>-</td>
+                <td><a href="https://www.google.com" target="_blank">Google</a></td>
             </tr>
 
 
