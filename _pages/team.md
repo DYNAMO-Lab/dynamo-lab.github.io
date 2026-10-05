@@ -104,16 +104,10 @@ nav_rank: 2
         </thead>
         <tbody>
             <tr>
-                <td>Will Corcoran</td>
+                <td>Dennis Kim</td>
             </tr>
             <tr>
-                <td>Sathvika Anand</td>
-            </tr>
-            <tr>
-                <td>Wanjing Huang</td>
-            </tr>
-                        <tr>
-                <td>Ivy Wang</td>
+                <td>Victor Nardi</td>
             </tr>
         </tbody>
     </table>
@@ -133,55 +127,18 @@ nav_rank: 2
         </thead>
         <tbody>
             <tr>
-                <td>Ben Monastyrsky</td>
-            </tr>
-            <tr>
                 <td>Eirini Schoinas</td>
             </tr>
             <tr>
-                <td>Sohom Dutta</td>
-            </tr>
-            <tr>
-                <td>Riona Pampati</td>
-            </tr>
-              <tr>
-                <td>Victor Nardi</td>
-            </tr>
-                          <tr>
-                <td>Quinn Koster</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
----
-
-
-## ERSP Students
-
-<div class="table-responsive my-5">
-    <table class="table table-striped table-hover table-bordered">
-        <thead class="thead-dark">
-            <tr>
-                <th>Name</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Gabor Szita</td>
-            </tr>
-            <tr>
-                <td>Natasha Joshi</td>
+                <td>Viktor Minchev</td>
             </tr>
             <tr>
                 <td>Varsha Narasiman</td>
             </tr>
-                        <tr>
-                <td>Shreya Chati</td>
-            </tr>
         </tbody>
     </table>
 </div>
+
 
 ---
 
@@ -198,6 +155,21 @@ nav_rank: 2
             </tr>
         </thead>
         <tbody>
+             <tr>
+                <td>Eren Polat</td>
+                <td>MS</td>
+                <td>2026</td>
+                <td><a href="https://www.amazon.com" target="_blank">Amazon.com</a></td>
+            </tr>
+
+
+                             <tr>
+                <td>Saurabh Sharma</td>
+                <td>PhD</td>
+                <td>2026</td>
+                <td>Entrepreneur</td>
+            </tr>
+
                      <tr>
                 <td>Joseph Foster</td>
                 <td>MS</td>
