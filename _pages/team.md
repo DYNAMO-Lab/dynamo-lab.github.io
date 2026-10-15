@@ -140,6 +140,33 @@ nav_rank: 2
 </div>
 
 
+
+---
+
+## ERSP Students
+
+<div class="table-responsive my-5">
+    <table class="table table-striped table-hover table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th>Name</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Andre Prakash</td>
+            </tr>
+            <tr>
+                <td>Alexander Peroulas</td>
+            </tr>
+            <tr>
+                <td>Carrie Ma</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
 ---
 
 ## Alumni
