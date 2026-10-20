@@ -189,14 +189,6 @@ nav_rank: 2
                 <td><a href="https://www.amazon.com" target="_blank">Amazon.com</a></td>
             </tr>
 
-
-                             <tr>
-                <td>Saurabh Sharma</td>
-                <td>PhD</td>
-                <td>2026</td>
-                <td>Entrepreneur</td>
-            </tr>
-
                      <tr>
                 <td>Joseph Foster</td>
                 <td>MS</td>
