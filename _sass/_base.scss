@@ -630,3 +630,27 @@ html.transition *:after {
     }
   }
 }
+
+
+// Mobile: keep profile and team photos from filling the whole screen
+@media (max-width: 575.98px) {
+  .profile {
+    margin-left: 0;
+    text-align: center;
+    img {
+      max-width: 220px;
+      width: 100%;
+    }
+  }
+
+  .card .card-img {
+    display: block;
+    max-width: 200px;
+    margin: 1rem auto 0;
+    border-radius: 3px;
+  }
+
+  .card .team {
+    text-align: center;
+  }
+}
