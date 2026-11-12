@@ -93,7 +93,7 @@ nav_rank: 2
 
 ---
 
-## Master Students
+## Master’s students
 
 <div class="table-responsive my-5">
     <table class="table table-striped table-hover table-bordered">
@@ -116,7 +116,7 @@ nav_rank: 2
 
 ---
 
-## Undergraduate Students
+## Undergraduate Researchers
 
 <div class="table-responsive my-5">
     <table class="table table-striped table-hover table-bordered">
@@ -143,7 +143,7 @@ nav_rank: 2
 
 ---
 
-## ERSP Students
+## Early Research Scholars (ERSP)
 
 <div class="table-responsive my-5">
     <table class="table table-striped table-hover table-bordered">

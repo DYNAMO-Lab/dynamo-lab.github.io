@@ -11,23 +11,19 @@ lastname: Singh
 publications: 'author^=*Singh'
 
 teaser: >
-        <p><strong>Research interests:</strong> network science, machine learning, social networks, and bioinformatics </p>
+        <p><strong>Research interests:</strong> machine learning, graph algorithms, representation learning, network science, explainable AI, and AI for scientific discovery.</p>
 
-        <p><a href="http://www.cs.ucsb.edu/~ambuj/">Ambuj Singh</a> is a Professor of Computer Science at the University of California, Santa Barbara, with a part-time appointment in the Biomolecular Science and Engineering Program.  
-        He received a B.Tech. degree from the <a href="https://www.iitkgp.ac.in/">Indian Institute of Technology, Kharagpur</a>, and a PhD degree from the <a href="https://www.utexas.edu/">University of Texas at Austin</a>. His research interests are broadly in the areas of <a href="https://muriteams.cs.ucsb.edu/">network science</a>, <a href="https://cs.ucsb.edu/">machine learning</a>, <a href="https://www.nsf.gov/funding/">social networks</a>, and <a href="https://www.nih.gov/">bioinformatics</a>. He has published 250 technical papers over his career.</p>
+        <p><a href="https://www.cs.ucsb.edu/people/faculty/ambuj-k-singh">Ambuj K. Singh</a> is a Distinguished Professor of Computer Science at the University of California, Santa Barbara, with an affiliated appointment in Biomolecular Science and Engineering. His research develops mathematical and computational methods for learning, analyzing, and reasoning with complex structured data, with applications in social networks, molecular science, and neuroscience.</p>
 
-        <p>He has led a number of multidisciplinary projects including UCSB’s <a href="https://inarc.cs.ucsb.edu/">Information Network Academic Research Center</a> funded by the Army, <a href="https://www.nsf.gov/funding/">Interdisciplinary Graduate Education Research and Training (IGERT) program on Network Science</a> funded by the NSF, and the <a href="https://muriteams.cs.ucsb.edu/">Multidisciplinary University Research Initiative (MURI) on Network Science of Teams</a> funded by the US Army. Besides the NSF and Army, his research has also been funded by the <a href="https://www.nih.gov/">National Institute of Health</a> and the <a href="https://www.dtra.mil/">Defense Threat Reduction Agency</a>.</p>
+        <p>His current work explores the geometry and symmetry of learned representations, graph learning and explainability, human&ndash;AI systems, and the integration of representation learning with scientific reasoning.</p>
 
-        <p>He is currently on the editorial boards of two journals and has served on program committees of several conferences, workshops, and international meetings. He has graduated approximately 50 PhD, MS, and postdoctoral students over his career, including 30 PhD students.</p>
-
-        <p>In the past, he has served as the Department Chair and Associate Dean in the College of Engineering. In other leadership roles, he served on UCSB’s Committee on Academic Personnel for three years, the last year as the Chair, and the Committee on Planning on Budget.</p>
-
+        <p>He has led several interdisciplinary research initiatives, including an NSF IGERT program on Network Science and an Army-funded MURI on the Network Science of Teams. He has previously served as Chair of the Computer Science Department and Associate Dean of the College of Engineering.</p>
 
 
 profile:
     name: Ambuj Singh
     position: Distinguished Professor
-    team-position: Distinguished Professor
+    team-position: Distinguished Professor of Computer Science
     align: right 
     logos: true
     image: prof_pic.png
