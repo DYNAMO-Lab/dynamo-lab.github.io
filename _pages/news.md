@@ -8,8 +8,6 @@ nav: true
 nav_order: 6
 ---
 
-Research highlights, publications, student achievements, and activities from the DYNAMO group at UC Santa Barbara.
-
 {% assign all_news = site.news | sort: "date" | reverse %}
 {% assign current_year = "" %}
 {% for item in all_news %}
